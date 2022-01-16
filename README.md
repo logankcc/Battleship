@@ -14,7 +14,7 @@ The following video demonstrates the singleplayer gameplay loop. The surrender b
 
 https://user-images.githubusercontent.com/93413777/149643853-a55427dd-04c6-49ec-82a4-5c5f841bf8d6.mov
 
-## Multiplayer gameplay
+## Multiplayer Gameplay
 The following video demonstrates the local multiplayer gameplay loop. The surrender button is pressed to end the game early.
 
 https://user-images.githubusercontent.com/93413777/149643854-4efc8292-95ac-4dfe-97d9-2fc5ac5fd9ec.mov
