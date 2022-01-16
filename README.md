@@ -2,7 +2,7 @@
 
 ---
 
-Atomica team project
+The goal of this project was develop a C++ version of the classic board game Battleship. 
 
 
 
